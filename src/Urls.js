@@ -1,0 +1,5 @@
+export const userGroupsURL = "https://cors-anywhere.herokuapp.com/https://secure.splitwise.com/api/v3.0/get_groups"
+export const userURL = "https://cors-anywhere.herokuapp.com/https://secure.splitwise.com/api/v3.0/get_current_user"
+export const groupInfoURL = "https://cors-anywhere.herokuapp.com/https://secure.splitwise.com/api/v3.0/get_group/"
+export const userExpensesURL = "https://cors-anywhere.herokuapp.com/https://secure.splitwise.com/api/v3.0/get_expenses?limit=50000"
+export const currenciesURL = "https://cors-anywhere.herokuapp.com/https://secure.splitwise.com/api/v3.0/get_currencies"
